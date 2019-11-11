@@ -53,4 +53,4 @@ function checkForWin() {
     //check for diagonal
     return false;
     }
-}
+
